@@ -20,21 +20,11 @@ const About = () => {
         <div style={{ flex: 1, paddingRight: "20px" }}>
           <h1 style={{ color: "#00FF7F", textAlign: "left" }}>About Me</h1>
           <p style={{ fontSize: "18px", color: "#999ea2", textAlign: "left" }}>
-            My name is Chris Lam and I graduated with a Bachelor of Science in
-            Computer Science from Virginia Tech. I attended Virginia Tech for
-            three years, where I was able to develop various technical skills,
-            gain experience working with others through projects, and build a
-            strong foundation for software development. My academic coursework
-            included both technical topics such as Object Oriented Programming,
-            Data Structures, and Computer Systems, along with other important
-            skills such as Human-Computer interaction and Professionalism in
-            Computing. I am a highly-motivated engineer, with my main strengths
-            being my creativity, communication, and time-management. If you
-            think I am a good fit for your company after reviewing my profile, I
-            look forward to the opportunity to discuss how my background,
-            skills, and enthusiasm can contribute to the success of your team
-            and/or company. Please feel free to contact me any time at my mobile
-            number or email.
+          My name is Chris Lam, and I graduated with a Bachelor of Science in Computer Science from Virginia Tech. During my three years at Virginia Tech, I developed various technical skills, gained valuable experience collaborating on projects, and built a strong foundation in software development. My academic coursework included technical topics such as Object-Oriented Programming, Data Structures, and Computer Systems, as well as other essential areas like Human-Computer Interaction and Professionalism in Computing.
+
+Currently, I am a Technical Support Engineer at QNAP Systems, where I deliver expert technical support for NAS/NVR systems. In this role, I diagnose and resolve hardware and software issues, troubleshoot complex network connectivity problems, and configure RAID storage systems. I also manage network setups, including routers and switches, while implementing and supporting backup, restoration, and disaster recovery systems to ensure data integrity and system reliability.
+
+I am a highly motivated engineer, with strengths in creativity, communication, and time management. If you believe I am a good fit for your company after reviewing my profile, I would welcome the opportunity to discuss how my background, skills, and enthusiasm can contribute to the success of your team. Please feel free to contact me anytime via my mobile number or email.
           </p>
           <div style={{ display: "flex", justifyContent: "center" }}>
             <img

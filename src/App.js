@@ -19,7 +19,7 @@ function App() {
         <Router>
             <Navbar />
             <Routes>
-                <Route path="/" element={<About />} /> {/* Set About as the default page */}
+                <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
                 <Route
                     path="/contact"

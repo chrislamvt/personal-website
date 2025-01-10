@@ -30,7 +30,7 @@ const Navbar = () => {
                     <MiniLogo src={linkedLogo} alt="LinkedIn Logo" right={150} />
                 </a>
             <NavName>Chris Lam</NavName>
-            <NavPersonalInfo>Software Developer | (703)-627-0500 | chrisla0604@gmail.com</NavPersonalInfo>
+            <NavPersonalInfo> (703)-627-0500 | chrisla0604@gmail.com</NavPersonalInfo>
                 <NavLine />
                 <Bars />
                 <NavMenu>
